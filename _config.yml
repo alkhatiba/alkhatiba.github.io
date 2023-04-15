@@ -13,10 +13,10 @@ author: Ahmad Alkhatib
 ###############################################
 
 navbar-links:
-  Home: "aboutme"
-  Publications: "aboutmef"
+  About: "aboutme"
+  Certifications: "aboutme"
   Blog: "aboutme"
-  Resume: "aboutme"
+  CV: "aboutme"
 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
