@@ -14,9 +14,9 @@ author: Ahmad Alkhatib
 
 navbar-links:
   About: "aboutme"
-  Certifications: "aboutme"
-  Blog: "aboutme"
-  CV: "aboutme"
+  Certifications: "/certifications/main"
+  Blog: "/blog/main"
+  CV: "/files/cv.pdf"
 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
