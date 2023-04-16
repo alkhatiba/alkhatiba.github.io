@@ -1,11 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: More about me
 ---
 
-My name is Ahmad Alkhatib.
+<div class="home-info-container">
+	<div class="home-img-container">
+		<img src="/images/ahmadalkhatib.jpg">
+	</div>
+	<div class="home-info-text">
+		<h1>Yuya Tinnefeld</h1>
+		<h3 style="font-weight: 0;">DevOps Engineer based in 🇩🇪</h3>
+		<div class="social-icons">
+      <a class="social-icon" href="https://www.linkedin.com/in/alkhatiba/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+			<a class="social-icon" href="https://github.com/alkhatiba/" target="_blank"><i class="fab fa-github"></i></a>
+		</div>
+	</div>
 
-### My story
+</div><br>
 
-My name is Ahmad Alkhatib, and I am an aspiring developer who has a unique background in engineering. I've always been passionate about the potential of technology to solve real-world problems, and I'm now focused on using my skills to create software solutions that can make a positive impact on society.
+
+### My Story
+Ahmad has a fascination with technology and its potential to solve problems and create value. After completing his undergraduate studies in industrial engineering, he decided to pursue his passion for software development.
