@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Certifications
-subtitle: My Certificates
 ---
 
 ### Contents
