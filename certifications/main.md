@@ -6,7 +6,7 @@ subtitle: My Certificates
 
 ### Contents
 
-<p>Here are my certificates in reverse chronological order:</p>
+<p>Here are my certificates:</p>
 
 <ul>
   {% for post in site.certificates %}
