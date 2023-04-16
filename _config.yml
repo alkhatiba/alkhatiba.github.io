@@ -15,12 +15,10 @@ author: Ahmad Alkhatib
 navbar-links:
   About: "aboutme"
   Certifications: "/certifications/main"
+  Projects: "/projects/main"
   Blog: "/blog/main"
   CV: "/files/cv.pdf"
 
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   
 
 ################
