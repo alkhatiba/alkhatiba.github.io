@@ -10,7 +10,7 @@ layout: page
 		<h1>Ahmad Alkhatib</h1>
 		<h3 style="font-weight: 0;">Software Engineer based in 🇩🇪</h3>
 		<div class="social-icons">
-			<a class="social-icon" href="https://github.com/alkhatiba/" target="_blank"><i class="fab fa-envelope"></i></a>
+			<<a href="mailto:youremail@example.com"><i class="far fa-envelope"></i></a>"></i></a>
 			<a class="social-icon" href="https://github.com/alkhatiba/" target="_blank"><i class="fab fa-github"></i></a>
      			<a class="social-icon" href="https://www.linkedin.com/in/alkhatiba/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 			
