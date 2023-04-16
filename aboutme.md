@@ -7,10 +7,10 @@ layout: page
 		<img src="/images/ahmadalkhatib.jpg">
 	</div>
 	<div class="home-info-text">
-		<h1>Yuya Tinnefeld</h1>
-		<h3 style="font-weight: 0;">DevOps Engineer based in 🇩🇪</h3>
+		<h1>Ahmad Alkhatib</h1>
+		<h3 style="font-weight: 0;">Software Engineer based in 🇩🇪</h3>
 		<div class="social-icons">
-      <a class="social-icon" href="https://www.linkedin.com/in/alkhatiba/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+     			<a class="social-icon" href="https://www.linkedin.com/in/alkhatiba/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 			<a class="social-icon" href="https://github.com/alkhatiba/" target="_blank"><i class="fab fa-github"></i></a>
 		</div>
 	</div>
