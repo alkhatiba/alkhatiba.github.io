@@ -4,7 +4,7 @@ layout: page
 
 <div class="home-info-container">
 	<div class="home-img-container">
-		<img src="/images/ahmadalkhatib.jpg">
+		<img src="/images/ahmadalkhatib.JPG">
 	</div>
 	<div class="home-info-text">
 		<h1>Ahmad Alkhatib</h1>
