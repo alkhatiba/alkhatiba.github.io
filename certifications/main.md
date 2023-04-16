@@ -8,7 +8,7 @@ title: Certifications
 <p>Here are my certificates:</p>
 
 <ul>
-  {% for post in site.certificates %}
+  {% for post in site.categories.certificates %}
     <li class="spaced">
       <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_long_string }}
     </li>
