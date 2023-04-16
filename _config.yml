@@ -16,7 +16,7 @@ navbar-links:
   About: "aboutme"
   Certifications: "/certifications/main"
   Projects: "/projects/main"
-  Blog: "/blog/main"
+  #Blog: "/blog/main"
   CV: "/files/CV.pdf"
 
   
