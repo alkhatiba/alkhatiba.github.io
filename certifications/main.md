@@ -7,7 +7,6 @@ title: Certifications
 
 <p>Here are my certificates:</p>
 
-<ul>
-  {[CS50AI](/certifications/CS50AI.pdf)
-  [CS50X](/certifications/CS50X.pdf)}
-</ul>
+[CS50AI](/certifications/CS50AI.pdf)
+[CS50X](/certifications/CS50X.pdf)
+
