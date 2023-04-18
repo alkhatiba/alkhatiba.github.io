@@ -7,6 +7,6 @@ title: Certifications
 
 <p>Here are my certificates:-</p>
 
-- [CS50AI](/certifications/_posts/CS50AI.pdf){:download="CS50AI.pdf"}
-- [CS50X](/certifications/_posts/CS50X.pdf){:download="CS50X.pdf"}
-
+- <a href="/certifications/_posts/CS50AI.pdf" download="CS50AI.pdf">CS50AI/a>
+- <a href="/certifications/_posts/CS50X.pdf" download="CS50X.pdf">CS50X/a>
+  
