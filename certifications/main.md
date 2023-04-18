@@ -7,6 +7,6 @@ title: Certifications
 
 <p>Here are my certificates:-</p>
 
-- [CS50AI](/certifications/CS50AI.pdf)
-- [CS50X](/certifications/CS50X.pdf)
+- [CS50AI](/certifications/_posts/CS50AI.pdf)
+- [CS50X](/certifications/_posts/CS50X.pdf)
 
