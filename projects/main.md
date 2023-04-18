@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contents
+title: Projects
 ---
 ### Contents
 
