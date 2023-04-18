@@ -8,9 +8,6 @@ title: Certifications
 <p>Here are my certificates:</p>
 
 <ul>
-  {% for post in site.certifications.posts %}
-    <li class="spaced">
-      <a href="{{ post.url }}">{{ post.title }}</a> 
-    </li>
-  {% endfor %}
+  {[CS50AI](/certifications/CS50AI.pdf)
+  [CS50X](/certifications/CS50X.pdf)}
 </ul>
