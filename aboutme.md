@@ -21,4 +21,4 @@ layout: page
 
 
 ### My Story
-Ahmad has a fascination with technology and its potential to solve problems and create value. After completing his undergraduate studies in industrial engineering, he decided to pursue his passion for software development.
+Ahmad has a fascination with technology's potential to solve problems and create value. Therefore, after completing his undergraduate studies in industrial engineering, he decided to pursue his passion for software development.
