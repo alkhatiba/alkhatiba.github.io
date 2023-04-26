@@ -4,7 +4,7 @@ title: Projects
 ---
 ### Contents
 
-- **AI to solve Minesweeper**    
+- **Minesweeper with a built-in AI solver**    
   [Minesweeper-AI](https://github.com/alkhatiba/Minesweeper-AI)
   
   ![](/projects/minesweeper-AI-gif.gif)
